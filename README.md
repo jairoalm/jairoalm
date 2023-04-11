@@ -1,8 +1,8 @@
 # Olá, eu sou Jairo Almeida
 <div>
   <a href="https://github.com/jairoalm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairoalmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairoalmeida&layout_compact&langs_count=16&theme=dark"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairoalm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairoalm&layout_compact&langs_count=16&theme=dark"/>  
 </div>
 
 <div style="display: inline_block"><br>
