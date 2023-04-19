@@ -1,5 +1,5 @@
 ### Olá, eu sou Jairo Almeida 🖐️
-Atualmente Analista de teste/QA com foco em automação de testes. Curioso sobre desenvolvimento de software.
+Atualmente Analista de teste/QA com foco em automação de testes.
 
 <div>
 <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
