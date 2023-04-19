@@ -13,8 +13,8 @@ Atualmente Analista de teste/QA com foco em automação de testes.
 
 <div>
   <a href="https://github.com/jairoalm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairoalm&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairoalm&layout_compact&langs_count=16&theme=onedark"/>    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairoalm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairoalm&layout_compact&langs_count=16&theme=dark"/>    
 </div>
   
 ## Tecnologias que eu uso ou já usei no meu dia!
