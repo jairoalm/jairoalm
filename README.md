@@ -32,7 +32,7 @@ Atualmente Analista de teste/QA com foco em automação de testes.
 <!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>
           
- ## Atualmente estudando Ruby e capybara para testes de fron-end e Ruby com Excon para teste de API.
+ ## Atualmente estudando Robot Framework para testes de API.
  
   
 <!-- ![Snake animation](https://github.com/jairoalm/jairoalm/blob/output/github-contribution-grid-snake.svg) -->
